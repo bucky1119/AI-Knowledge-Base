@@ -15,3 +15,13 @@
 ## Claude Code 源码泄露与架构设计调研正文
 
 https://tcna2xxx5e8g.feishu.cn/wiki/ABU3wI9jWixMsrkOnPHcFiG7nnc?from=from_copylink
+
+
+## 提示词工程（Prompt Engineering）摘要
+本报告围绕提示词工程（Prompt Engineering）展开，系统梳理了 OpenAI 与 Anthropic 官方推荐的提示词设计原则与实用方法。报告指出，提示词工程的核心是通过清晰、具体、结构化的输入，让大语言模型更稳定地输出符合预期的结果。内容重点介绍了指令前置、上下文补充、格式引导、Few-shot 示例、Prompt Chaining、分隔符与正向指令等常用技巧。整体来看，提示词工程是一种低成本、高通用性的 AI 交互优化方法，适合在日常问答、内容生成、代码辅助和复杂任务拆解等场景中使用。
+
+## 提示词工程（Prompt Engineering）正文
+https://ocno6fjgelu7.feishu.cn/docx/BSiFdgwlToDjArxeeUccaZ1HnOe?from=from_copylink
+
+## OpenAI、Anthropic官方提示工程最佳实践 正文
+https://ocno6fjgelu7.feishu.cn/docx/QQNFdOrl2oWQ8KxySuOcM8rpnJd?from=from_copylink
