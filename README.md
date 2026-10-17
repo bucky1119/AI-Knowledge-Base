@@ -17,3 +17,4 @@
 | 2025-06-08 | Week 1 | 第1组 | 陈思光、万阳 | llm-wiki分享 + pi-coding-agent分享 | [查看报告1](./reports/2026-06-08-llm-wiki/) [查看报告2](./reports/2026-06-08-pi-coding-agent/) |
 | 2025-06-24 | Week 3 | 第3组 | 沈成、李树堉 | Loop + agent提示词模板 分享 | [查看报告](./reports/2026-05-25-writing-polish-Skill分享和MCP分享/) |
 | 2026-07-20 | Week 3 | 第3组 | 沈成、李树堉 | Long-Horizon Agents + Agent上下文压缩技术与Headroom | [查看报告](./reports/2026-7-20-Long-Horizon%20Agents/) |
+| 2026-10-12 | Week 1 | 第1组 | 超博 | Jev 与 System-One Models：从语言生成到结构化决策 | [查看报告](./reports/2026-10-12-jev-system-one/) |
